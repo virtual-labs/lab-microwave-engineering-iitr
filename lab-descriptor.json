@@ -22,7 +22,7 @@
     "name": "To Study the Characteristics of Reflex Klystron",
     "short-name": "reflex-klystron",
     "repo": "https://github.com/virtual-labs/exp-reflex-klystron-iitr",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
@@ -36,7 +36,7 @@
     "name": "To Study the Basic Properties of E-plane Tee, H-plane Tee and Magic Tee",
     "short-name": "plane-tee-magic-tee",
     "repo": "https://github.com/virtual-labs/exp-e-plane-tee-h-plane-tee-magic-tee-iitr",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
@@ -47,24 +47,24 @@
     "deploy": true
   },
   {
-    "name": "To study the characteristics of multi-hole directional coupler by measuring the following parameters: coupling factor and directivity of couple",
+    "name": "To study the characteristics of multi-hole directional coupler by measuring the following parameters: coupling factor and directivity of coupler",
     "short-name": "directional-coupler-measuring",
     "repo": "https://github.com/virtual-labs/exp-directional-coupler-measuring-iitr",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "To Study the Properties of Magic Tee and Determining the Scattering Parameters of Magic Tee",
     "short-name": "scattering-magic-tee",
     "repo": "https://github.com/virtual-labs/exp-magic-tee-iitr",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "To plot the Radiation pattern and Determining Gain of a Pyramidal Horn Antenna",
     "short-name": "pyramidal-horn-antenna",
     "repo": "https://github.com/virtual-labs/exp-pyramidal-horn-antenna-iitr",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   }
 
