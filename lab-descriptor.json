@@ -36,7 +36,7 @@
     "name": "To Study the Basic Properties of E-plane Tee, H-plane Tee and Magic Tee",
     "short-name": "plane-tee-magic-tee",
     "repo": "https://github.com/virtual-labs/exp-e-plane-tee-h-plane-tee-magic-tee-iitr",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
@@ -57,7 +57,7 @@
     "name": "To Study the Properties of Magic Tee and Determining the Scattering Parameters of Magic Tee",
     "short-name": "scattering-magic-tee",
     "repo": "https://github.com/virtual-labs/exp-magic-tee-iitr",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
